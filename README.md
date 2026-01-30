@@ -25,16 +25,16 @@
 - [ACI Learning](https://www.acilearning.com/)
 - [CBT Nuggets](https://www.cbtnuggets.com/)
 
+**Books**
 - [Humble Bundle](https://www.humblebundle.com/) - Sometimes has book bundles for Cyber
 
 --------------------
 ## Capture the flag competitions
-WIP
+- [ctftime (Competitive CTF Listings)](ctftime.org)
 
 --------------------
 ## Youtubers
 - [Security Now](https://www.youtube.com/@securityNow) - Great weekly podcast (Also on podcast platforms!)
-
 - [David Bombal](https://www.youtube.com/@davidbombal) - Longform interviews and instructional content in Cybersecurity
 - [SomeOrdinaryGamers](https://www.youtube.com/@SomeOrdinaryGamers) - Commetary youtuber commonly touching topics in Cybersecurity and privacy
 - [Eric Parker](https://www.youtube.com/@EricParker) - Reverse engineering, looks at malware often and figured out how it works
