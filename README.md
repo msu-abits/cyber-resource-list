@@ -11,8 +11,10 @@
 --------------------
 ## Table of Contents
 1. [Learning Platforms](#learning-platforms)
-2. [Capture the flags](#capture-the-flag-competitions)
-3. [Youtubers](#youtubers)
+2. [Books](#books)
+3. [News](#news)
+4. [Capture the flags](#capture-the-flag-competitions)
+5. [Youtubers](#youtubers)
 
 --------------------
 ## Learning Platforms
@@ -25,8 +27,25 @@
 - [ACI Learning](https://www.acilearning.com/)
 - [CBT Nuggets](https://www.cbtnuggets.com/)
 
-**Books**
-- [Humble Bundle](https://www.humblebundle.com/) - Sometimes has book bundles for Cyber
+--------------------
+
+## Books
+- [Humble Bundle](https://www.humblebundle.com/) - Sometimes has book bundles for Cyber. Very valuable resource
+- [HackTricks](https://book.hacktricks.wiki/en/index.html) - Red team content that talks all about penetration testing and generic hacking. Its open source!
+
+--------------------
+
+## News
+- [Cybersecurity Insiders (AI generated images)](https://www.cybersecurity-insiders.com/)
+- [Dark Reading](https://www.darkreading.com/)
+- [The Hacker News](https://thehackernews.com/)
+- [404 Media](https://www.404media.co/)
+- [Cyber Crime Magazine](https://cybersecurityventures.com/today/)
+- [Krebs On Security](https://krebsonsecurity.com/)
+- [CSO Online](https://www.csoonline.com/)
+- [CrowdStrike Blog](https://www.crowdstrike.com/en-us/blog/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Pharack Magazine](https://phrack.org/)
 
 --------------------
 ## Capture the flag competitions
